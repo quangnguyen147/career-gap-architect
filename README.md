@@ -28,7 +28,7 @@ An AI-powered app that analyzes the gap between a Resume and a Job Description a
 ## Run Locally
 
 ```bash
-git clone https://github.com/yourname/career-gap-architect.git
+git clone https://github.com/quangnguyen147/career-gap-architect.git
 cd career-gap-architect
 //Run by docker
 docker compose down -v
